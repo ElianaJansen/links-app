@@ -4,5 +4,5 @@ This is a basic application crud that uses nodejs in the backend, mysql as datab
 # Usefull Commands
 to init mysql: mysql -u root -p
 
-#links
+# links
 bootstrap 4 theme
