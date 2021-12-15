@@ -11,7 +11,7 @@ bootstrap 4 theme
 on server:4000
 
 # Run app
- npm start
+ npm install
 
 # Run Server
  npm run dev
